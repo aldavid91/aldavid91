@@ -42,19 +42,19 @@ Currently building toward **IAM Analyst, Identity Operations, Junior GRC Analyst
 ### Okta IAM Lab — Lifecycle Automation & Access Governance
 
 Live Okta org demonstrating end-to-end IAM administration: custom user profile attributes in Universal Directory, dynamic group rules driving JML workflows, network zone enforcement, MFA policies, and SAML SSO integration with Salesforce in a sandbox environment.
-**Stack:** Okta, Universal Directory, dynamic group rules, network zones, MFA, SAML, OIDC
+**Stack:** Okta, Universal Directory, dynamic group rules, network zones, MFA, SAML, OIDC  
 **Repository:** [okta-iam-lab](https://github.com/aldavid91/okta-iam-lab) *(in progress)*
 
 ### Okta + Jamf Integration Lab
 
 Documented integration pattern connecting Okta as the identity provider with Jamf for macOS device management — covering device trust, conditional access, and the JML implications for device lifecycle. Built to demonstrate cross-stack IAM + MDM fluency.
-**Stack:** Okta, Jamf (Jamf Now / Jamf 100), macOS
-**Repository:** [okta-jamf-integration](https://github.com/aldavid91/okta-jamf-integration) *(in progress)*
+**Stack:** Okta, Jamf (Jamf Now / Jamf 100), macOS  
+
 
 ### Vendor & Browser Extension Security Review Framework
 
-Reusable review framework based on a 6-month vendor security fellowship at Block. Covers third-party application onboarding criteria, Chrome extension permission analysis, and structured risk documentation suitable for GRC workflows.
-**Repository:** [vendor-security-reviews](https://github.com/aldavid91/vendor-security-reviews) *(in progress)*
+Reusable review framework based on a 6-month vendor security fellowship at Block. Covers third-party application onboarding criteria, Chrome extension permission analysis, and structured risk documentation suitable for GRC workflows.  
+
 
 ---
 
