@@ -2,7 +2,7 @@
 
 **IT Support Specialist · Identity & Access Management · Cybersecurity**
 
-Portland, OR / Vancouver, WA · al.david.91@gmail.com · [LinkedIn](https://www.linkedin.com/in/aldavid91/)
+Portland, OR / Vancouver, WA · al.david.91@gmail.com · [linkedIn](https://www.linkedin.com/in/aldavid91/)
 
 ---
 
