@@ -33,7 +33,7 @@ Currently building toward **IAM Analyst, Identity Operations, Junior GRC Analyst
 
 **Enterprise IT Support** — Ticket-based triage in ~12k-user environments, root-cause analysis, cross-functional escalation between IT, engineering, and application teams, end-user technical communication
 
-**Tools & Platforms** — Okta, Workday (HRIS context), Jamf, Slack, Zoom, Google Workspace, macOS, Jira, Confluence
+**Tools & Platforms** — Okta, Workday (HRIS context), Intune, Workspace One, FleetDM, Slack, Google Workspace, macOS, windowsOS, chromeOS, iOS, Jira, Confluence
 
 ---
 
